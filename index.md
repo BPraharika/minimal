@@ -14,9 +14,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 fraud detection
 
-## project 2 
+## Header 2
 
- case study of fake news detection
+ 
 
 ### Header 3
 
